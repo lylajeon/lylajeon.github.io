@@ -4,9 +4,6 @@ theme: just-the-docs
 
 url: https://lylajeon.github.io
 
-aux_links:
-  Template Repository: https://github.com/lylajeon/lylajeon.github.io
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole site, values
@@ -99,8 +96,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+  "Youngju Jeon's blog on GitHub":
+    - "https://github.com/lylajeon/lylajeon.github.io"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -166,6 +163,7 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
+  
 
 kramdown:
   syntax_highlighter_opts:
