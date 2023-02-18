@@ -1,7 +1,7 @@
 ---
 title: Pytorch Basics (1)
 layout: default
-nav_order: 5
+nav_order: 6
 ---
 date: 2022-09-26
 

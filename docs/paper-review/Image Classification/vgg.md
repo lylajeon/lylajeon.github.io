@@ -90,7 +90,7 @@ This is due to FC layer, which is at the end of convolution layers, and the conv
 
 This is the code for vgg-16 net implemented in CUDA. 
 
-```cpp:title=vgg-implemented-in-cuda
+```cpp
 #include "vgg16_cuda.h"
 #include <cmath>
 #include <iostream>

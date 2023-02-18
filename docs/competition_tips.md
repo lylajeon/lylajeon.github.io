@@ -1,7 +1,7 @@
 ---
 title: Competition tips 
 layout: default
-nav_order: 4
+nav_order: 5
 ---
 date : 2022-11-16
 

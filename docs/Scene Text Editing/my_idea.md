@@ -37,7 +37,7 @@ code : [https://github.com/omriav/blended-latent-diffusion](https://github.com/o
 
 2번 masking + diffusion
 
-- RePaint ****(CVPR 2022)
+- RePaint (CVPR 2022)
     - paper : [https://arxiv.org/pdf/2201.09865.pdf](https://arxiv.org/pdf/2201.09865.pdf)
     - code : [https://github.com/andreas128/RePaint](https://github.com/andreas128/RePaint)
 

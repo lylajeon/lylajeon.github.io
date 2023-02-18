@@ -96,7 +96,7 @@ data normalization (my search) :
 
 예전에는 way to model neuron's output = saturating-nonlinearity 함수를 써서 training with gradient descent 할 때 오래걸림. 
 
-$f(x) =max(0, x)$
+$$f(x) =max(0, x)$$
 
 Deep Convolutional neural network train several times faster than traditional units. -> can experiment with such large neural networks. **Faster learning**
 
