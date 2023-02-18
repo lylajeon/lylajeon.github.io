@@ -47,7 +47,7 @@ exclude:
    - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/banner.jpg"
+logo: "/assets/images/yj.png"
 favicon_ico: "/assets/images/favicon.ico"
 
 # Enable or disable the site search

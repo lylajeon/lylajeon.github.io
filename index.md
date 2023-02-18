@@ -3,6 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
+<img src="/assets/images/banner.jpg" style="zoom: 40%;" />
 
 Hi!
 
