@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text Editing
+title: Scene Text Editing
 nav_order: 2
 has_children: true
 has_toc: true

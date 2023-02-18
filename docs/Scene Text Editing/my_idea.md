@@ -1,7 +1,7 @@
 ---
 title: My Idea on Text Editing Methods
 layout: default
-parent: Text Editing 
+parent: Scene Text Editing 
 nav_order: 1
 ---
 
@@ -21,7 +21,7 @@ code : [https://github.com/omriav/blended-latent-diffusion](https://github.com/o
 
 단점: 원본의 스타일을 많이 잃어버릴 수 있음. 영어가 아닌 다른 언어의 text를 가이드로 주는 것이 가능할지..? 이질감. 
 
-2. masking 해서 새로운 text image를 원본 스타일로 font style transfer 해서 원본 이미지의 마스크 한 부분에 입히기. 마스킹 안한 부분과 앞의 결과물이 가이드 해서 diffusion 활용해서 채우는 것 (My Pick🌟)
+1. masking 해서 새로운 text image를 원본 스타일로 font style transfer 해서 원본 이미지의 마스크 한 부분에 입히기. 마스킹 안한 부분과 앞의 결과물이 가이드 해서 diffusion 활용해서 채우는 것 (My Pick🌟)
 
 필요한 것 : scene text editing 논문들에 쓰인 데이터셋 가지고 pretrained model 학습 
 
@@ -29,7 +29,7 @@ code : [https://github.com/omriav/blended-latent-diffusion](https://github.com/o
 
 단점: masking 한 부분이 통째로 있지 않아서 잘 채워질지 해봐야지 알 수 있음. 원본과 다를 수 있음. 디테일함 떨어질 수 있음. 
 
-3. scene text removal 을 이용해서 배경 이미지를 알아낸 다음, 원본과의 차이를 이용하여 원본 text image를 알아냄. 이를 이용하여 font style transfer 하여 새로운 text image 를 배경 이미지에 입히기 
+1. scene text removal 을 이용해서 배경 이미지를 알아낸 다음, 원본과의 차이를 이용하여 원본 text image를 알아냄. 이를 이용하여 font style transfer 하여 새로운 text image 를 배경 이미지에 입히기 
 
 장점: 원본과 아주 유사할 수 있음. 
 
