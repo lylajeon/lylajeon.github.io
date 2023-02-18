@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Boostcamp
-nav_order: 6
+title: Text Editing
+nav_order: 2
 has_children: true
 has_toc: true
 ---
