@@ -8,7 +8,8 @@ search_exclude: true
 ---
 
 다음은 ChatGPT 에 내가 물어본 GAN-based text editing 에 관한 논문들이다. 
-아래의 논문들을 보면서 배워볼 생각이다.
+~~아래의 논문들을 보면서 배워볼 생각이다.~~
+ChatGPT가 잘못된 논문들을 소개하기도 해서 내가 직접 검색하는 게 낫겠다.
 
 Generative Adversarial Networks (GANs) have been extensively studied and applied in various domains including image and text processing. In recent years, GAN-based text editing has emerged as a promising research area, where GAN models are used to generate and edit text data.
 

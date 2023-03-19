@@ -7,7 +7,7 @@ nav_order: 2
 
 # Scene Text Editing papers
 - **SRNet**
-    
+  
     - Editing Text in the wild
     
     - paper : [https://arxiv.org/pdf/1908.03047.pdf](https://arxiv.org/pdf/1908.03047.pdf)
@@ -17,7 +17,7 @@ nav_order: 2
     - code : [https://github.com/endy-see/SRNet-1](https://github.com/endy-see/SRNet-1)  
     
 - **STEFANN**
-    
+  
     - character-level text editing  
     
     - intro : [https://prasunroy.github.io/stefann/](https://prasunroy.github.io/stefann/)
@@ -25,7 +25,7 @@ nav_order: 2
     - code: [https://github.com/prasunroy/stefann](https://github.com/prasunroy/stefann)
     
 - **RewriteNet**
-    
+  
     - ClovaAI인데 지금 git 닫힘
     
     - paper : [https://arxiv.org/pdf/2107.11041.pdf](https://arxiv.org/pdf/2107.11041.pdf)  
@@ -35,15 +35,27 @@ nav_order: 2
 
 - STRIVE
 
-- Scene Text Replacement in Videos
+    - Scene Text Replacement in Videos
 
-- [https://openaccess.thecvf.com/content/ICCV2021/papers/G_STRIVE_Scene_Text_Replacement_in_Videos_ICCV_2021_paper.pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/G_STRIVE_Scene_Text_Replacement_in_Videos_ICCV_2021_paper.pdf)
+    - paper : [G_STRIVE_Scene_Text_Replacement_in_Videos_ICCV_2021_paper.pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/G_STRIVE_Scene_Text_Replacement_in_Videos_ICCV_2021_paper.pdf)
 
-- MOSTEL
-    
-    - 최신 연구 인듯한데, 아직 code release는 안 됨
-    
-    - [https://github.com/qqqyd/MOSTEL](https://github.com/qqqyd/MOSTEL)
+- **MOSTEL**
+
+    - 최신 연구 인듯한데, ~~아직 code release는 안 됨~~ 코드 공개됨!
+
+    - 코드 : [https://github.com/qqqyd/MOSTEL](https://github.com/qqqyd/MOSTEL)
+
+    - paper : https://arxiv.org/pdf/2212.01982.pdf
+
+
+
+# Font style transfer (cross-language)
+
+- FTransGAN (WACV 2021)
+  - paper : [Li_Few-Shot_Font_Style_Transfer_Between_Different_Languages_WACV_2021_paper.pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Few-Shot_Font_Style_Transfer_Between_Different_Languages_WACV_2021_paper.pdf)
+  - code : https://github.com/ligoudaner377/font_translator_gan
+
+
 
 # OCR
 EasyOCR : [https://yunwoong.tistory.com/76](https://yunwoong.tistory.com/76) https://github.com/JaidedAI/EasyOCR [https://davelogs.tistory.com/94](https://davelogs.tistory.com/94)
@@ -71,7 +83,7 @@ seq2seq
 
 # Image Inpainting
 - **STEFANN** (CVPR 2020)
-    
+  
     - character-level text editing  
     
     - intro : [https://prasunroy.github.io/stefann/](https://prasunroy.github.io/stefann/)
@@ -79,7 +91,7 @@ seq2seq
     - code: [https://github.com/prasunroy/stefann](https://github.com/prasunroy/stefann)
     
 - **RewriteNet** (CVPRW 2022)
-    
+  
     - paper : [https://arxiv.org/pdf/2107.11041.pdf](https://arxiv.org/pdf/2107.11041.pdf)  
     
 
@@ -88,3 +100,7 @@ seq2seq
 - **RePaint** (CVPR 2022)
     - paper : [https://arxiv.org/pdf/2201.09865.pdf](https://arxiv.org/pdf/2201.09865.pdf)
     - code : [https://github.com/andreas128/RePaint](https://github.com/andreas128/RePaint)
+
+- **GARnet** (ECCV 2022)
+  - paper : https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4705_ECCV_2022_paper.php
+  - code : https://github.com/naver/garnet
