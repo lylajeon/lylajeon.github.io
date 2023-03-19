@@ -8,6 +8,8 @@ gem "just-the-docs", "0.4.2" # currently the latest pre-release
 
 gem "jekyll-github-metadata" # required for GitHub Pages
 
-gem "webrick"
+# gem "webrick"
+
+gem "jekyll-sass-converter", "~> 2.0"
 
 gem 'jekyll-latex'
