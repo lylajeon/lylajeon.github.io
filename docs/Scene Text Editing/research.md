@@ -45,18 +45,21 @@ nav_order: 2
 
     - 코드 : [https://github.com/qqqyd/MOSTEL](https://github.com/qqqyd/MOSTEL)
 
-    - paper : https://arxiv.org/pdf/2212.01982.pdf
+    - paper : [https://arxiv.org/pdf/2212.01982.pdf](https://arxiv.org/pdf/2212.01982.pdf)
 
+- SwapText (CVPR 2020)
+  - 하고 싶은 task 에 가장 가까운 연구임. 하지만 코드 공개가 안되어있음..
+  - paper : [swaptext.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SwapText_Image_Based_Texts_Transfer_in_Scenes_CVPR_2020_paper.pdf)
+  - code : not released 
 
 
 # Font style transfer (cross-language)
 
 - FTransGAN (WACV 2021)
   - paper : [Li_Few-Shot_Font_Style_Transfer_Between_Different_Languages_WACV_2021_paper.pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Few-Shot_Font_Style_Transfer_Between_Different_Languages_WACV_2021_paper.pdf)
-  - code : https://github.com/ligoudaner377/font_translator_gan
+  - code : [https://github.com/ligoudaner377/font_translator_gan](https://github.com/ligoudaner377/font_translator_gan)
 
-
-
+  
 # OCR
 EasyOCR : [https://yunwoong.tistory.com/76](https://yunwoong.tistory.com/76) https://github.com/JaidedAI/EasyOCR [https://davelogs.tistory.com/94](https://davelogs.tistory.com/94)
 
@@ -94,8 +97,7 @@ seq2seq
   
     - paper : [https://arxiv.org/pdf/2107.11041.pdf](https://arxiv.org/pdf/2107.11041.pdf)  
     
-
-       - 코드 : [https://github.com/GOGOOOMA/AIFFEL_Hackathon](https://github.com/GOGOOOMA/AIFFEL_Hackathon)
+    - 코드 : [https://github.com/GOGOOOMA/AIFFEL_Hackathon](https://github.com/GOGOOOMA/AIFFEL_Hackathon)
 
 - **RePaint** (CVPR 2022)
     - paper : [https://arxiv.org/pdf/2201.09865.pdf](https://arxiv.org/pdf/2201.09865.pdf)
