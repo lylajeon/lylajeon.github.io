@@ -108,9 +108,3 @@ Papago : [how to use papago api](https://itadventure.tistory.com/538)
 
 - paper : [4705_ECCV_2022_paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760436.pdf)
 - code : [https://github.com/naver/garnet](https://github.com/naver/garnet)
-
-## **STEFANN** (CVPR 2020)
-- same as [above](https://lylajeon.github.io/docs/Scene%20Text%20Editing/research/#stefann-cvpr-2020) 
-    
-## **RewriteNet** (CVPRW 2022)
-- same as [above](https://lylajeon.github.io/docs/Scene%20Text%20Editing/research/#rewritenet-cvprw-2022)
