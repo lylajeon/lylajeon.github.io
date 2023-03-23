@@ -26,12 +26,12 @@ nav_order: 2
     
 - **RewriteNet**
   
-    - ClovaAI인데 지금 git 닫힘
+    - ClovaAI인데 지금 github 닫힘
     
     - paper : [https://arxiv.org/pdf/2107.11041.pdf](https://arxiv.org/pdf/2107.11041.pdf)  
     
 
-       - 코드 : [https://github.com/GOGOOOMA/AIFFEL_Hackathon](https://github.com/GOGOOOMA/AIFFEL_Hackathon)
+       - 코드 : [https://github.com/GOGOOOMA/AIFFEL_Hackathon](https://github.com/GOGOOOMA/AIFFEL_Hackathon) (unofficial code for RewriteNet) 
 
 - STRIVE
 
@@ -102,5 +102,5 @@ seq2seq
     - code : [https://github.com/andreas128/RePaint](https://github.com/andreas128/RePaint)
 
 - **GARnet** (ECCV 2022)
-  - paper : https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4705_ECCV_2022_paper.php
-  - code : https://github.com/naver/garnet
+  - paper : [4705_ECCV_2022_paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760436.pdf)
+  - code : [https://github.com/naver/garnet](https://github.com/naver/garnet)
