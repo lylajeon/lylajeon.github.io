@@ -52,10 +52,10 @@ nav_order: 2
 
 ## SwapText (CVPR 2020)
 - 하고 싶은 task 에 가장 가까운 연구임. 하지만 코드 공개가 안되어있음..
-- a three-stage framework to transfer texts across scene images
-- first stage: a novel text swapping network to replace text labels only in the *foreground image* 
-- second stage: a background completion network to reconstruct *background images*
-- third stage: the fusion network generate the *word image* by using the foreground and background images
+- a *three-stage* framework to transfer texts across scene images
+  1. first stage: a novel text swapping network to replace text labels only in the *foreground image* 
+  2. second stage: a background completion network to reconstruct *background images*
+  3. third stage: the fusion network generate the *word image* by using the foreground and background images
 
 - paper : [swaptext.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SwapText_Image_Based_Texts_Transfer_in_Scenes_CVPR_2020_paper.pdf)
 - code : not released 
