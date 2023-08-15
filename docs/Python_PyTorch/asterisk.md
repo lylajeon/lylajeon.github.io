@@ -2,7 +2,7 @@
 title: Use of Asterisk in Python
 layout: default
 parent: Python, PyTorch
-# nav_order: 1
+nav_order: 2
 ---
 date: 2023-03-23
 

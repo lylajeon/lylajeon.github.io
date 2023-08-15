@@ -2,7 +2,7 @@
 title: Pytorch Basics (1)
 layout: default
 parent: Python, PyTorch
-# nav_order: 2
+nav_order: 1
 ---
 date: 2022-09-26
 
